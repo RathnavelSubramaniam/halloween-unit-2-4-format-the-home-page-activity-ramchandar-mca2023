@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+img{
+    float: left;
+}
+.head{
+ margin-left:120px;
+}
+.head h1{
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+.main_content::first-letter{
+    font-size: 50px;
+}
+a{
+    color: orange;
+}
+a:hover{
+    color: green;
+}
+li{
+    padding: 5px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
